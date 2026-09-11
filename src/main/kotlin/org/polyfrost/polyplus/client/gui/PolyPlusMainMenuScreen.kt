@@ -657,6 +657,28 @@ private fun MainMenu(
                     assetsReady,
                     screen,
                 )
+                Box(
+                    modifier = Modifier
+                        .align(Alignment.TopStart)
+                        .padding(start = 24.dp, top = 18.dp)
+                        .size(82.dp)
+                        .guiScaled(scale, TransformOrigin(0f, 0f)),
+                    contentAlignment = Alignment.Center,
+                ) {
+                    MenuIcon(
+                        ASSETS + "zmaj-logo.png",
+                        Color(0x55000000),
+                        Modifier.size(82.dp).offset(x = 2.dp, y = 3.dp),
+                        assetsReady,
+                    )
+                    MenuIcon(
+                        ASSETS + "zmaj-logo.png",
+                        Color.White,
+                        Modifier.size(82.dp),
+                        assetsReady,
+                    )
+                }
+
                 WindowControls(
                     Modifier.align(Alignment.TopEnd).padding(16.dp).guiScaled(scale, TransformOrigin(1f, 0f)),
                     actions,
@@ -693,11 +715,10 @@ private const val BASE_HEIGHT = 720f
 @Composable
 private fun CenterColumn(modifier: Modifier, actions: MenuActions, assetsReady: Boolean) {
     Column(modifier = modifier.width(440.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-        MainLogo(assetsReady)
-        Spacer(Modifier.height(16.dp))
+        Spacer(Modifier.height(112.dp))
         Box(contentAlignment = Alignment.Center) {
-            MenuText("ONECLIENT", fontSize = 42.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.5.sp, color = Color(0x33000000), fontFamily = if (assetsReady) Outfit else FontFamily.Default, modifier = Modifier.offset(y = 3.dp))
-            MenuText("ONECLIENT", fontSize = 42.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.5.sp, color = Color.White, fontFamily = if (assetsReady) Outfit else FontFamily.Default)
+            MenuText("ZMAJ CLIENT", fontSize = 42.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.5.sp, color = Color(0x33000000), fontFamily = if (assetsReady) Outfit else FontFamily.Default, modifier = Modifier.offset(y = 3.dp))
+            MenuText("ZMAJ CLIENT", fontSize = 42.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.5.sp, color = Color.White, fontFamily = if (assetsReady) Outfit else FontFamily.Default)
         }
         Spacer(Modifier.height(48.dp))
         Column(modifier = Modifier.fillMaxWidth(), verticalArrangement = Arrangement.spacedBy(14.dp)) {
@@ -717,8 +738,8 @@ private fun CenterColumn(modifier: Modifier, actions: MenuActions, assetsReady: 
 @Composable
 private fun MainLogo(assetsReady: Boolean) {
     Box(Modifier.size(96.dp), contentAlignment = Alignment.Center) {
-        MenuIcon(ASSETS + "logo.svg", Color(0x33000000), Modifier.size(96.dp).offset(y = 3.dp), assetsReady)
-        MenuIcon(ASSETS + "logo.svg", Color.White, Modifier.size(96.dp), assetsReady)
+        MenuIcon(ASSETS + "zmaj-logo.png", Color(0x33000000), Modifier.size(96.dp).offset(y = 3.dp), assetsReady)
+        MenuIcon(ASSETS + "zmaj-logo.png", Color.White, Modifier.size(96.dp), assetsReady)
     }
 }
 
