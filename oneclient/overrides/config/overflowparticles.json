@@ -1,0 +1,1630 @@
+{
+	"minecraft:dripping_honey": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:smoke": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:campfire_cosy_smoke": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:soul_fire_flame": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:underwater": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:gust_emitter_large": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"configVersion": 1,
+	"minecraft:witch": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:wax_off": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:sweep_attack": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dripping_water": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dolphin": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dripping_dripstone_lava": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:entity_effect": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:item": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:landing_obsidian_tear": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:bubble": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:totem_of_undying": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:ash": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:rain": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:item_slime": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:falling_dripstone_water": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:item_snowball": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:cherry_leaves": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:shriek": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:egg_crack": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dripping_dripstone_water": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dust_pillar": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:white_smoke": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:sonic_boom": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:warped_spore": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:falling_obsidian_tear": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:splash": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:falling_dripstone_lava": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:nautilus": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:ominous_spawning": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:enchant": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:vibration": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:block_crumble": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dust_plume": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dragon_breath": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:falling_spore_blossom": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:sculk_soul": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:campfire_signal_smoke": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:falling_honey": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:lava": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:white_ash": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:end_rod": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dripping_obsidian_tear": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:crit": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:happy_villager": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:damage_indicator": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"checkInvulnerable": false,
+	"minecraft:gust": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:portal": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:raid_omen": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:flame": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:electric_spark": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:instant_effect": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"alwaysSharp": false,
+	"minecraft:landing_honey": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:explosion": {
+		"colorMode": 0,
+		"customColor": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:enchanted_hit": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:block_marker": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:gust_emitter_small": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:note": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:crimson_spore": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dust": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:firework": {
+		"colorMode": 0,
+		"customColor": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:snowflake": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:fishing": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:spore_blossom_air": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:wax_on": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:current_down": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:bubble_column_up": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:falling_nectar": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"isCleanView": false,
+	"isStaticParticleColor": false,
+	"minecraft:explosion_emitter": {
+		"colorMode": 0,
+		"customColor": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:dripping_lava": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:glow": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:sculk_charge_pop": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:glow_squid_ink": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:mycelium": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:item_cobweb": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:bubble_pop": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:angry_villager": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:infested": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:effect": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:sculk_charge": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:scrape": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:spit": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:block": {
+		"fadeStart": 0.5,
+		"hideDigging": false,
+		"fade": false,
+		"hideRunning": false,
+		"hideMode": 1
+	},
+	"minecraft:pale_oak_leaves": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"minecraft:large_smoke": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	},
+	"alwaysCritical": false,
+	"particleNoClip": false,
+	"minecraft:heart": {
+		"fadeStart": 0.5,
+		"colorMode": 0,
+		"customColor": false,
+		"fade": false,
+		"color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				255
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"size": 1.0,
+		"enabled": true,
+		"multiplier": 1.0
+	}
+}

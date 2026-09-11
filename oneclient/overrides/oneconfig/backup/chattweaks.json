@@ -1,0 +1,46 @@
+{
+	"timestampsStyle": 0,
+	"compactChatColor": {
+		"value": [
+			170, 
+			170, 
+			170, 
+			255
+		],
+		"class": "java.awt.Color"
+	},
+	"compactChat": true,
+	"dontCompactScreenshots": true,
+	"timestamps": false,
+	"timestampsBrackets": 0,
+	"shiftChat": false,
+	"bypassCommandLimit": true,
+	"compactChatTime": 60,
+	"safeChatClicksHistory": false,
+	"increaseChatHistoryLimit": 1000,
+	"imagePreview": true,
+	"dontClearChatHistory": true,
+	"removeBlankMessages": false,
+	"timestampsRightBracket": "]",
+	"timestampsFormat": 0,
+	"secondsOnTimestamps": false,
+	"onlyNewTimestamps": false,
+	"saveChatHistory": true,
+	"sessionMarkers": true,
+	"imagePreviewWidth": 25.0,
+	"fuzzyAutocomplete": false,
+	"timestampsColor": {
+		"value": [
+			170, 
+			170, 
+			170, 
+			255
+		],
+		"class": "java.awt.Color"
+	},
+	"safeChatClicks": false,
+	"saveChatHistoryInterval": 30,
+	"timestampsLeftBracket": "[",
+	"consecutiveCompactChat": false,
+	"compactChatFormat": 0
+}

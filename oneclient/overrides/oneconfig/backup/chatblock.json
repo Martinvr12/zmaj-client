@@ -1,0 +1,9 @@
+{
+	"wordsToBlockSendingStringList": "",
+	"debugModeEnabled": false,
+	"blockSendingInfoMessage": true,
+	"messagesToBlockReceivingStringList": "",
+	"blockReceivingInfoMessage": false,
+	"blockReceivingCaseSensitive": false,
+	"blockSendingSimilarity": 100
+}

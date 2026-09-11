@@ -1,0 +1,23 @@
+{
+	"timeDisplayUnits": 2,
+	"endColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"countdownTextFormat": "%VALUE%",
+	"decimalPrecision": 2,
+	"startColor": {
+		"value": [
+			0, 
+			255, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	}
+}

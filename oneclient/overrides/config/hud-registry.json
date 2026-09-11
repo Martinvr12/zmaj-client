@@ -1,0 +1,14 @@
+{
+	"knownHuds": [
+		"org.polyfrost.vanillahud.hud.ActionBarHud", 
+		"org.polyfrost.vanillahud.hud.BossBarHud", 
+		"org.polyfrost.vanillahud.hud.StatusEffectsHud", 
+		"org.polyfrost.chatting.hud.ChatWindowHud", 
+		"org.polyfrost.vanillahud.hud.HeldItemTooltipHud", 
+		"org.polyfrost.vanillahud.hud.TitleHud", 
+		"org.polyfrost.vanillahud.hud.TabListHud", 
+		"org.polyfrost.vanillahud.hud.ScoreboardHud", 
+		"org.polyfrost.vanillahud.hud.ClosedCaptionsHud", 
+		"org.polyfrost.vanillahud.hud.HotbarHud"
+	]
+}

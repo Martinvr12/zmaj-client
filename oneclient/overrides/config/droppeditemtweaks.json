@@ -1,0 +1,15 @@
+{
+	"staticItems": false,
+	"dropStackCount": 0,
+	"itemScale": 1.0,
+	"uhcOverlay": 0.0,
+	"uchItemList": [
+		"minecraft:apple",
+		"minecraft:golden_apple",
+		"minecraft:enchanted_golden_apple",
+		"minecraft:gold_ingot",
+		"minecraft:gold_nugget",
+		"minecraft:gold_block",
+		"minecraft:player_head"
+	]
+}

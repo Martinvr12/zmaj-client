@@ -1,0 +1,1610 @@
+{
+	"ARMOR_STAND_showCondition": 0,
+	"WITHER_SKULL_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_viewRayThickness": 1.0,
+	"DEFAULT_hoverColor": false,
+	"toggled": false,
+	"PROJECTILE_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_overwriteLogic": false,
+	"FRAMES_eyeHeightThickness": 1.0,
+	"FIREBALL_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_showSide": false,
+	"PLAYER_dashFactor": 10,
+	"WITHER_SKULL_showCondition": 0,
+	"ITEM_showCondition": 0,
+	"PLAYER_showOutline": true,
+	"ITEM_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_overwriteVisuals": false,
+	"MOB_showCondition": 0,
+	"MOB_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_dashFactor": 10,
+	"ARMOR_STAND_dashFactor": 10,
+	"MOB_lineMode": 0,
+	"MOB_viewRayThickness": 1.0,
+	"FIREBALL_drawOverEntity": false,
+	"PLAYER_showViewRay": true,
+	"SELF_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_overwriteVisuals": false,
+	"DEFAULT_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_iframeColor": false,
+	"SELF_showViewRay": true,
+	"SELF_showOutline": true,
+	"FRAMES_hoverColor": false,
+	"ARROW_outlineThickness": 1.0,
+	"FIREBALL_viewRayThickness": 1.0,
+	"PROJECTILE_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_overwriteLogic": false,
+	"SELF_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_hoverColor": false,
+	"FRAMES_outlineThickness": 1.0,
+	"FRAMES_showEyeHeight": true,
+	"MONSTER_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_showViewRay": true,
+	"XP_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_dashFactor": 10,
+	"ITEM_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_outlineThickness": 1.0,
+	"PLAYER_showCondition": 0,
+	"PROJECTILE_hoverColor": false,
+	"PROJECTILE_showOutline": true,
+	"FIREBALL_dashFactor": 10,
+	"ITEM_drawOverEntity": false,
+	"MONSTER_hoverColor": false,
+	"SELF_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_outlineThickness": 1.0,
+	"MOB_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_iframeColor": false,
+	"XP_viewRayThickness": 1.0,
+	"FIREBALL_lineMode": 0,
+	"ITEM_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_showCondition": 0,
+	"WITHER_SKULL_lineMode": 0,
+	"XP_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_overwriteVisuals": false,
+	"PLAYER_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_drawOverEntity": false,
+	"ITEM_viewRayThickness": 1.0,
+	"FRAMES_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_lineMode": 0,
+	"MOB_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_outlineThickness": 1.0,
+	"MONSTER_outlineThickness": 1.0,
+	"DEFAULT_showViewRay": true,
+	"FRAMES_drawOverEntity": false,
+	"ARROW_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_iframeColor": false,
+	"XP_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_eyeHeightThickness": 1.0,
+	"FIREBALL_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_showViewRay": true,
+	"MONSTER_showSide": false,
+	"WITHER_SKULL_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_drawOverEntity": false,
+	"MONSTER_overwriteVisuals": false,
+	"MONSTER_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_eyeHeightThickness": 1.0,
+	"FRAMES_overwriteLogic": false,
+	"XP_showEyeHeight": true,
+	"PLAYER_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_iframeColor": false,
+	"PROJECTILE_showEyeHeight": true,
+	"ITEM_outlineThickness": 1.0,
+	"MONSTER_viewRayThickness": 1.0,
+	"PLAYER_drawOverEntity": false,
+	"XP_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_viewRayThickness": 1.0,
+	"DEFAULT_showOutline": true,
+	"DEFAULT_viewRayThickness": 1.0,
+	"SELF_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_lineMode": 0,
+	"ARMOR_STAND_overwriteLogic": false,
+	"retainToggle": true,
+	"FIREBALL_outlineThickness": 1.0,
+	"SELF_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_showCondition": 0,
+	"ARMOR_STAND_lineMode": 0,
+	"ARMOR_STAND_hoverColor": false,
+	"DEFAULT_iframeColor": false,
+	"hideInF1": true,
+	"PROJECTILE_showSide": false,
+	"FRAMES_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_lineMode": 0,
+	"SELF_overwriteVisuals": false,
+	"XP_hoverColor": false,
+	"FRAMES_showViewRay": true,
+	"SELF_lineMode": 0,
+	"MONSTER_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_dashFactor": 10,
+	"FRAMES_showOutline": true,
+	"PLAYER_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_dashFactor": 10,
+	"ARMOR_STAND_iframeColor": false,
+	"WITHER_SKULL_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_iframeColor": false,
+	"MONSTER_showCondition": 0,
+	"MOB_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_outlineThickness": 1.0,
+	"ITEM_overwriteVisuals": false,
+	"MONSTER_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_showOutline": true,
+	"MONSTER_overwriteLogic": false,
+	"ARMOR_STAND_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_showCondition": 0,
+	"PLAYER_overwriteLogic": false,
+	"ARROW_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_drawOverEntity": false,
+	"SELF_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_lineMode": 0,
+	"DEFAULT_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_viewRayThickness": 1.0,
+	"ITEM_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_iframeColor": false,
+	"SELF_eyeHeightThickness": 1.0,
+	"MONSTER_showEyeHeight": true,
+	"MONSTER_iframeColor": false,
+	"ARROW_hoverColor": false,
+	"FIREBALL_hoverColor": false,
+	"WITHER_SKULL_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_showSide": false,
+	"ARROW_showViewRay": true,
+	"MONSTER_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_lineMode": 0,
+	"DEFAULT_showEyeHeight": true,
+	"PROJECTILE_dashFactor": 10,
+	"ARROW_showOutline": true,
+	"MOB_hoverColor": false,
+	"ARMOR_STAND_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_lineMode": 0,
+	"ARMOR_STAND_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_dashFactor": 10,
+	"FIREBALL_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_dashFactor": 10,
+	"ARROW_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_eyeHeightThickness": 1.0,
+	"ARMOR_STAND_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_overwriteLogic": false,
+	"WITHER_SKULL_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_eyeHeightThickness": 1.0,
+	"DEFAULT_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_overwriteVisuals": false,
+	"ITEM_overwriteLogic": false,
+	"PLAYER_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_eyeHeightThickness": 1.0,
+	"ITEM_showSide": false,
+	"MOB_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_outlineThickness": 1.0,
+	"ARMOR_STAND_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_eyeHeightThickness": 1.0,
+	"WITHER_SKULL_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_eyeHeightThickness": 1.0,
+	"XP_outlineThickness": 1.0,
+	"DEFAULT_dashFactor": 10,
+	"FIREBALL_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_viewRayThickness": 1.0,
+	"PROJECTILE_showCondition": 0,
+	"FIREBALL_overwriteVisuals": false,
+	"WITHER_SKULL_showViewRay": true,
+	"ITEM_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"enabled": false,
+	"SELF_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_showSide": false,
+	"MONSTER_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_viewRayThickness": 1.0,
+	"XP_overwriteLogic": false,
+	"DEFAULT_showCondition": 0,
+	"FRAMES_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_showOutline": true,
+	"FRAMES_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_showSide": false,
+	"FRAMES_lineMode": 0,
+	"WITHER_SKULL_overwriteVisuals": false,
+	"MOB_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_showSide": false,
+	"ARROW_showSide": false,
+	"FIREBALL_iframeColor": false,
+	"ARMOR_STAND_showViewRay": true,
+	"ARMOR_STAND_showOutline": true,
+	"MOB_outlineThickness": 1.0,
+	"DEFAULT_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"toggleKeybind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen",
+		"keyCodes": [
+			"key.keyboard.f3", 
+			"key.keyboard.b"
+		]
+	},
+	"DEFAULT_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_overwriteVisuals": false,
+	"FIREBALL_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_overwriteVisuals": false,
+	"PROJECTILE_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_viewRayThickness": 1.0,
+	"PLAYER_hoverColor": false,
+	"WITHER_SKULL_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_outlineThickness": 1.0,
+	"DEFAULT_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_eyeHeightThickness": 1.0,
+	"PLAYER_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARMOR_STAND_drawOverEntity": false,
+	"MOB_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_showEyeHeight": true,
+	"SELF_hoverColor": false,
+	"SELF_iframeColor": false,
+	"ARMOR_STAND_overwriteVisuals": false,
+	"FIREBALL_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PLAYER_showEyeHeight": true,
+	"ITEM_showEyeHeight": true,
+	"ITEM_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_showSide": false,
+	"WITHER_SKULL_showEyeHeight": true,
+	"XP_dashFactor": 10,
+	"SELF_viewRayHoverColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_eyeHeightColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_showEyeHeight": true,
+	"WITHER_SKULL_showSide": false,
+	"DEFAULT_showSide": false,
+	"PROJECTILE_iframeColor": false,
+	"MONSTER_showOutline": true,
+	"PROJECTILE_drawOverEntity": false,
+	"ARROW_drawOverEntity": false,
+	"ITEM_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_showViewRay": true,
+	"ITEM_showViewRay": true,
+	"XP_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_hoverColor": false,
+	"WITHER_SKULL_drawOverEntity": false,
+	"ARROW_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_showEyeHeight": true,
+	"ARMOR_STAND_showEyeHeight": true,
+	"ITEM_showOutline": true,
+	"WITHER_SKULL_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ITEM_eyeHeightThickness": 1.0,
+	"SELF_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_lineMode": 0,
+	"FRAMES_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_viewRayColor": {
+		"value": [
+			0, 
+			0, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"ARROW_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_sideHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_eyeHeightIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_outlineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"SELF_showEyeHeight": true,
+	"FIREBALL_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FRAMES_showCondition": 0,
+	"PLAYER_iframeColor": false,
+	"ARMOR_STAND_viewRayThickness": 1.0,
+	"XP_showCondition": 0,
+	"WITHER_SKULL_overwriteLogic": false,
+	"WITHER_SKULL_eyeHeightThickness": 1.0,
+	"ITEM_sideIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"WITHER_SKULL_dashFactor": 10,
+	"PLAYER_eyeHeightThickness": 1.0,
+	"XP_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_showViewRay": true,
+	"MOB_showOutline": true,
+	"SELF_drawOverEntity": false,
+	"ARMOR_STAND_sideColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MONSTER_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"FIREBALL_showViewRay": true,
+	"SELF_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_eyeHeightHoverColor": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"DEFAULT_viewRayIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"XP_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"MOB_drawOverEntity": false,
+	"PLAYER_outlineIframeColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"PROJECTILE_overwriteLogic": false,
+	"FIREBALL_showOutline": true,
+	"ARMOR_STAND_showSide": false,
+	"ARROW_overwriteLogic": false,
+	"FIREBALL_outlineHoverColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	}
+}

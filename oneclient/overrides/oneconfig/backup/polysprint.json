@@ -1,0 +1,22 @@
+{
+	"flyBoostAmount": 4.0,
+	"keybindToggleSprintKey": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen",
+		"keyCodes": []
+	},
+	"toggleFlyBoost": false,
+	"keybindToggleSneakKey": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen",
+		"keyCodes": []
+	},
+	"showSprintTextWhileFlying": true,
+	"unsneakOnFlightStart": true,
+	"keybindToggleSprint": false,
+	"toggleSneakState": false,
+	"isEnabled": true,
+	"toggleSneak": false,
+	"disableWTapSprint": false,
+	"toggleSprint": true,
+	"toggleSprintState": false,
+	"keybindToggleSneak": false
+}

@@ -1,0 +1,14 @@
+{
+	"horseOpacity": 100.0,
+	"pigOpacity": 100.0,
+	"llamaOpacity": 100.0,
+	"striderOpacity": 100.0,
+	"camelOpacity": 100.0,
+	"nautilusOpacity": 100.0,
+	"happyGhastOpacity": 100.0,
+	"defaultOpacity": 100.0,
+	"onlyInFirstPerson": false,
+	"useLookDirection": false,
+	"lookOffset": 20.0,
+	"lookRange": 80.0
+}

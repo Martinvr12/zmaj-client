@@ -1,0 +1,12 @@
+{
+	"preventClosingScreens": true,
+	"dontResetCursor": false,
+	"cursorResetTimer": 150,
+	"clickOutOfContainers": false,
+	"containerBackgroundOpacity": 81.56863,
+	"containerTextureOpacity": 100.0,
+	"containerLabelColor": -12566464,
+	"playerInventoryLabelColor": -12566464,
+	"containerScale": -1,
+	"removeRecipeBookShift": false
+}

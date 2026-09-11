@@ -1,0 +1,9 @@
+{
+	"thunderStrength": 1.0,
+	"isEnabled": false,
+	"weather": 0,
+	"isIrlWeather": false,
+	"enableSounds": true,
+	"snowStrength": 1.0,
+	"rainStrength": 1.0
+}

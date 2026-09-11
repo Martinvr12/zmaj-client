@@ -1,0 +1,1162 @@
+{
+	"status-effect-bars": {
+		"3|Harmful Bar Color": -2130706433,
+		"11|Collinear Padding": 3,
+		"1|Background Color": -2147483648,
+		"14|Enabled": true,
+		"17|Thickness": 1,
+		"18|Collinear Padding": 4,
+		"20|Orthogonal Offset": 3,
+		"13|Orthogonal Offset": 2,
+		"10|Thickness": 1,
+		"0|Color Mode": {
+			"class": "io.github.a5b84.statuseffectbars.config.ColorMode",
+			"value": "EFFECT_COLOR"
+		},
+		"7|Enabled": true,
+		"12|Collinear Offset": 0,
+		"5|Maximum Remaining Duration": 2147483647,
+		"8|Direction": {
+			"class": "io.github.a5b84.statuseffectbars.config.Direction",
+			"value": "LEFT_TO_RIGHT"
+		},
+		"16|Align to Bottom/Right": true,
+		"19|Collinear Offset": 0,
+		"15|Direction": {
+			"class": "io.github.a5b84.statuseffectbars.config.Direction",
+			"value": "LEFT_TO_RIGHT"
+		},
+		"9|Align to Bottom/Right": true,
+		"4|Neutral Bar Color": -2130706433,
+		"2|Beneficial Bar Color": -2130706433,
+		"6|Minimum Beacon Effect Age": 90
+	},
+	"blackbarconcealer": {
+		"1|Generate Missing Pixels": false,
+		"2|Prefer Wide Model": false,
+		"0|Enabled": true
+	},
+	"overlaytweaks": {
+		"17|Constant Vignette Darkness Value": 0.0,
+		"18|Suffocation Overlay Brightness": 10.0,
+		"9|Closed Caption Background Color": {
+			"value": [
+				0, 
+				0, 
+				0, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"3|Remove Water Overlay": true,
+		"12|Equippable Overlay Opacity": 100.0,
+		"6|Fire Overlay Height": 0.0,
+		"10|Elder Guardian Opacity": 100.0,
+		"22|Shield Opacity": 100.0,
+		"2|Heart Display Type": {
+			"class": "dev.microcontrollers.overlaytweaks.config.HeartDisplay",
+			"value": "DEFAULT"
+		},
+		"15|Spyglass Background Color": {
+			"value": [
+				0, 
+				0, 
+				0, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"1|Hand Invisibility Opacity": 0.0,
+		"7|Fire Overlay Opacity": 100.0,
+		"21|Shield Height": 0.0,
+		"14|Spyglass Overlay Opacity": 100.0,
+		"11|Elder Guardian Scale": 1.0,
+		"0|Keep Hand in Hidden HUD": false,
+		"5|Remove Fire Overlay When Resistant": true,
+		"13|Freezing Overlay Opacity": 100.0,
+		"16|Constant Vignette Darkness": false,
+		"20|Item Cooldown Color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				127
+			],
+			"class": "java.awt.Color"
+		},
+		"19|Nether Portal Opacity": 100.0,
+		"4|Remove Submerged FOV Change": true,
+		"8|Remove Held Item Name Tooltip": false
+	},
+	"effecttimerplus": {
+		"17|Icon Scale": 1.0,
+		"9|Warning Time": 20,
+		"12|Color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				187
+			],
+			"class": "java.awt.Color"
+		},
+		"11|Indicator": true,
+		"15|Background color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				187
+			],
+			"class": "java.awt.Color"
+		},
+		"10|Location": 6,
+		"5|Shadow": true,
+		"2|Warning Color": true,
+		"7|Background Color": {
+			"value": [
+				33, 
+				33, 
+				33, 
+				150
+			],
+			"class": "java.awt.Color"
+		},
+		"18|Timer Scale": 0.699999988079071,
+		"0|Indicator": true,
+		"8|Warning Color Flash": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"13|Shadow": true,
+		"4|Color": {
+			"value": [
+				255, 
+				255, 
+				255, 
+				153
+			],
+			"class": "java.awt.Color"
+		},
+		"19|Potency Scale": 0.699999988079071,
+		"1|Indicator (Ambient/Beacon)": false,
+		"6|Background": false,
+		"14|Background": false,
+		"3|Warning Flash": true,
+		"16|Location": 2
+	},
+	"ukulib": {
+		"0|Button In Options": true,
+		"2|Username of the head in options": "uku3lig",
+		"1|ModMenu Integration": true
+	},
+	"numericalenchantments": {
+		"0|Use Arabic Numbers": true
+	},
+	"blur": {
+		"6|Darken Title Screen Background": false,
+		"19|Fade Out Time (in milliseconds)": 300,
+		"7|Reduce Blur on In-Game Screens": false,
+		"9|Force-enabled Screens": [
+			"dev.emi.emi.screen.RecipeScreen", 
+			"mezz.jei.gui.recipes.RecipesGui", 
+			"me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen"
+		],
+		"8|Show Screen ID": false,
+		"17|Rainbow Mode 🌈": false,
+		"11|Gradient as Background": true,
+		"20|Blur Animation Curve": {
+			"class": "eu.midnightdust.blur.config.BlurConfig$Easing",
+			"value": "FLAT"
+		},
+		"21|Background Gradiant Animation Curve": {
+			"class": "eu.midnightdust.blur.config.BlurConfig$Easing",
+			"value": "FLAT"
+		},
+		"2|Apply Blur to Signs": true,
+		"14|Gradient End Color": -16777216,
+		"5|Apply Blur to Title Screen": false,
+		"10|Force-disabled Screens": [
+			"net.irisshaders.iris.gui.screen.ShaderPackScreen"
+		],
+		"15|Gradient End Alpha": 75,
+		"0|Apply Blur to Containers": true,
+		"1|Apply Blur to Books": true,
+		"4|Apply Blur to Death Screen": false,
+		"16|Gradient Rotation": 0,
+		"3|Apply Blur to Command Blocks": true,
+		"13|Gradient Start Alpha": 75,
+		"18|Fade Time (in milliseconds)": 300,
+		"22|Radius": 25.0,
+		"12|Gradient Start Color": -16777216
+	},
+	"nochatreports": {
+		"8|Hide unverified message indicators": true,
+		"11|Hide warning toast": true,
+		"13|Always hide report button": false,
+		"3|Show reload button": true,
+		"15|Enable debug log": false,
+		"18|Demand on client kick message": "You do not have No Chat Reports, and this server is configured to require it on client!",
+		"10|Hide system message indicators": true,
+		"19|Convert to game message": true,
+		"16|Disable telemetry": true,
+		"17|Demand on client": false,
+		"4|Verified icon enabled": true,
+		"14|Demand on server": false,
+		"2|Default signing mode": "Prompt",
+		"12|Hide signing request message": false,
+		"6|Verified icon Y-offset": 0,
+		"7|Show server safety": true,
+		"1|Show NCR button": true,
+		"0|Enable mod": true,
+		"5|Verified icon X-offset": 0,
+		"9|Hide modified message indicators": true,
+		"20|Add query data": true
+	},
+	"skyboxify": {
+		"3|Render Stars": false,
+		"5|Debug Mode": false,
+		"4|Show Overworld In Unknown Dimensions": true,
+		"0|Enabled": true,
+		"2|Render Sun & Moon": true,
+		"1|Render Sky": true
+	},
+	"betternightvision": {
+		"0|Disable Night Vision": false,
+		"1|Cleaner Night Vision Decay": true
+	},
+	"animatium": {
+		"96|[*] Force Item Glint On Armor": false,
+		"75|[*] Sky Rendering Check": true,
+		"115|[*] Allow Usage Swinging Always": false,
+		"122|[*] Disable First-Person particles": false,
+		"153|left_click_item_usage": false,
+		"91|[1.12?] Disable Player Model While Sleeping": false,
+		"25|[1.20] Restore Old Tooltip Style": false,
+		"139|Ignore Mining Fatigue Speed": false,
+		"39|[1.7-fast] Make item entities use camera yaw / face camera": false,
+		"4|[1.7] Cape sneaking position": false,
+		"116|[*] Always Show Sharp Particles On Damage": false,
+		"35|[1.8] Legacy Crafting Slots Position": false,
+		"23|[1.7] Enable F3 Debug Hud Text-Shadow": false,
+		"43|[1.7] Modify/Tilt The First-Person Held Item's Position": true,
+		"44|[1.7] Modify/Tilt The Third-person Held Item's Position": true,
+		"155|miss_penalty": false,
+		"95|[*] Disable Entity Scissor in Inventory": false,
+		"34|[1.7] Disconnect To Title Screen": false,
+		"126|[*] Color/Saturation Boost": false,
+		"19|[1.7] Center Scrollable List Widgets": false,
+		"86|[1.20.6] Restore Particle Blending": false,
+		"148|mining_item_usage": false,
+		"82|[1.7] Damage Tint Armor": true,
+		"113|[1.7] Debug hud text color": false,
+		"56|[1.10] Legacy Durability Bar Color": false,
+		"121|[*] Disable Particle Physics": false,
+		"33|[1.13] Legacy Crosshair Position": false,
+		"137|Mining Fatigue Swing Speed": 0.0,
+		"26|[1.20] Restore Legacy Inventory Slot Hover": false,
+		"101|[1.16] Old Y0 Height": false,
+		"132|[*] Damage Tint Items": false,
+		"30|§6[1.12.2] Legacy Panorama Rendering": false,
+		"133|[*] Damage Tint Cape": false,
+		"92|[1.12.2] Legacy Third-Person Flame Dimensions": false,
+		"108|[1.12.2] Legacy Splash Position": false,
+		"52|[1.14] Disable Swing Animation When Dropping Items": false,
+		"106|[1.12.2] Legacy Lightmap": false,
+		"45|[1.7] Only Tilt Known Third-person Item Types": true,
+		"69|[*] Fix High Attack Speed Crosshair Indicator": true,
+		"58|[1.8] Enable Held Item In Boat": false,
+		"40|[*] Fixes 2D item drops rotation": false,
+		"98|[1.7] Offset Third-Person Flame Rendering": false,
+		"150|disable_sprint_sneaking": false,
+		"89|[1.14?] Projectile rendering at all ages": false,
+		"63|[*] Fix Arm Swing Mirroring": true,
+		"146|Item Offset Z": 0.0,
+		"3|[1.7] Don't move cape while chestplate is equipped": false,
+		"28|[1.11] Inventory Status-Effects Position": false,
+		"20|[1.15] Legacy List Widget Selected Border Color": false,
+		"48|[*] Change Fishing Rod To Be Like It Was In": {
+			"class": "org.visuals.legacy.animatium.util.enums.FishingRodVersionSetting",
+			"value": "V1_7"
+		},
+		"46|[1.7] Held Thin Block Item Position": false,
+		"123|[*] Don't Clear Chat": false,
+		"71|[*] Up Min Pixel Transparency Limit": true,
+		"53|[1.14] Disable Swing Animation When Interacting With Entities": false,
+		"8|[1.11] Backwards Walking Rotation": false,
+		"36|[1.8] Legacy Enchantment Glint Speed": false,
+		"9|[1.20.1] Revert Head Rotation (Blocking)": false,
+		"15|[1.7] Offset Hurt Tilt Time": false,
+		"131|[*] Blood Particles Multiplier": 1,
+		"125|[1.12.2] Old Water Color Effects": false,
+		"80|[1.7] Void Fog/Particles Preset": {
+			"class": "org.visuals.legacy.animatium.util.enums.VoidFogSetting",
+			"value": "OFF"
+		},
+		"88|[1.17.1] Old Block Mining Progress": false,
+		"60|[1.7] 2D Head Item Icons": false,
+		"119|[*] Don't move blue void sky": false,
+		"10|[1.7] Disable Head Rotation Interpolation": false,
+		"54|[1.8] Disable Item Usage Texture in GUI": false,
+		"104|[1.7] Disable Random Block Rotations": false,
+		"87|[1.19.4] Lock Third-Person Arm Blocking Rotation": false,
+		"2|[1.20] Disable cape moving while swinging arm": false,
+		"83|[1.14.4] Glint Affects Armor Tint": false,
+		"129|[*] Legacy Loading Screen Progress Bar": false,
+		"102|[1.12.2] Old Water Overlay Opacity": false,
+		"154|clientside_entities": false,
+		"17|[1.8] Show Third-Person Crosshair": false,
+		"21|[1.14] Old Widget Hover Text Colors": false,
+		"127|[*] Always Blocking Head Cap": false,
+		"5|[*] Change sneak animation to be like it was in": {
+			"class": "org.visuals.legacy.animatium.util.enums.SneakAnimationSetting",
+			"value": "VANILLA"
+		},
+		"42|[1.7] Make framed items 2D": false,
+		"79|[1.12.2] Player Void Box": false,
+		"94|[1.7] Third-person arm block animation": true,
+		"64|[1.17] Fix Offhand Pose Whilst Using An Item": true,
+		"111|[*] Hide Name-Tag Background": false,
+		"62|[1.11] Fix Sneaking Feet Position": true,
+		"11|[1.20] Legacy Hand bobbing": false,
+		"114|[*] Allow Off-hand Usage Swinging": false,
+		"31|[1.13] Legacy Loading Screen": false,
+		"66|[*] Fix Left-Handed Fishing Rod Swing": true,
+		"135|Item Swing Speed": 0.0,
+		"149|hide_rod_bobber": false,
+		"51|[1.14] Disable Swing Animation While Using Items": false,
+		"74|[*] Fix Double Item Usage Visual": true,
+		"97|[*] Force Max Glint Speed/Strength": false,
+		"142|Item Scale Y": 1.0,
+		"105|[1.15.2] Legacy Diffuse Lighting": false,
+		"47|[1.8] Held Skull Model Position": false,
+		"50|[1.7] Apply the swing offset during item use": true,
+		"24|[1.15] Disable Third-Person Camera Block Passthrough": false,
+		"78|[1.13] Blue Void Sky-Half": false,
+		"128|[1.11] Hide Recipe Book": false,
+		"67|[1.13] Fix Fireball Clientside Fire": true,
+		"29|[1.21.10] Full Width Inventory Status-Effects Background": false,
+		"22|[1.7] Disable F3 Debug Hud Background": false,
+		"55|[*] Legacy Equip Animation": {
+			"class": "org.visuals.legacy.animatium.util.enums.EquipAnimationVersionSetting",
+			"value": "VANILLA"
+		},
+		"73|[*] Fix Item Usage Visual Whilst In GUI": true,
+		"0|[1.12.2] Old Cape Movement": false,
+		"7|§6[1.13] Fake Sneaking Eye Height": false,
+		"70|[MC-225335] Bring Back View Bobbing Tilt": true,
+		"49|[1.14?] Super Thin Fishing Line": false,
+		"117|[*] Show arm whilst invisible": false,
+		"110|[*] Show Nametag In Third-Person": false,
+		"152|old_sneak_height": false,
+		"18|[1.7] Disable Heart Flashing": false,
+		"27|[1.20.4] Restore List Background Gradient": false,
+		"118|[*] Swing during missed hit": false,
+		"90|[1.14] Restore Legacy Block Outline Rendering": false,
+		"85|[*] Custom Damage Color": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "java.awt.Color"
+		},
+		"130|[*] Blood Particles On Hit": false,
+		"77|[1.16] Old Cloud Height": false,
+		"103|[1.12.2] Old Water Color Fog": false,
+		"151|disable_sprint_item_use": false,
+		"72|[1.8] Toggle the equip animation when using a item": true,
+		"61|[1.7] Egg Snowball Particles": false,
+		"12|[*] Old Death Limbs": false,
+		"140|Disable Swing Translate": false,
+		"136|Haste Swing Speed": 0.0,
+		"143|Item Scale Z": 1.0,
+		"99|[1.7] Always Show Block Outline": false,
+		"37|§6[1.7] Toggle glint on dropped items": false,
+		"141|Item Scale X": 1.0,
+		"59|[1.7] Item Pickup Position": true,
+		"38|§6[1.7] Toggle glint on framed items": false,
+		"147|pick_inflation": false,
+		"68|[1.12.2] Fix Text Strikethrough Style": true,
+		"134|Enable Custom Swing Speed": false,
+		"14|[1.19] Legacy Damage Tilt": false,
+		"65|[MC-109263] Fix Arm-Related Fishing Rod Cast Line Check": true,
+		"124|[*] Don't Close Chat": false,
+		"145|Item Offset Y": 0.0,
+		"41|[1.7] Make item entities 2D when dropped": false,
+		"16|[*] Change camera position to be as it was in": {
+			"class": "org.visuals.legacy.animatium.util.enums.CameraVersionSetting",
+			"value": "VANILLA"
+		},
+		"6|[1.7] Long Un-Sneak Animation": false,
+		"1|[OF] Disable cape lean": false,
+		"81|[*] Planar Sky Fog": false,
+		"138|Ignore Haste Speed": false,
+		"100|[1.7-fast] Fast Grass": false,
+		"112|[*] Apply Text Shadow On Name-Tag": false,
+		"107|[1.13.1] Legacy Fog Darkness": false,
+		"109|[*] Minimal view bobbing": false,
+		"57|[1.21.1] Item Rarities": false,
+		"84|[*] Damage Tint Style": {
+			"class": "org.visuals.legacy.animatium.util.enums.DamageTintSetting",
+			"value": "VANILLA"
+		},
+		"144|Item Offset X": 0.0,
+		"76|[1.21.5] Old Cloud Rendering": false,
+		"93|[1.8] Held Item Arm Position": false,
+		"32|[1.11] Legacy Chat Position": false,
+		"120|[*] Disable entity death rotation": false,
+		"13|[1.7?] Legacy Third-Person Arm Bow Movement": false
+	},
+	"mountopacity": {
+		"0|Horse Opacity": 100.0,
+		"4|Camel Opacity": 100.0,
+		"9|Use Look Direction": false,
+		"11|Look Range": 80.0,
+		"2|Llama Opacity": 100.0,
+		"8|Only in First Person": false,
+		"1|Pig Opacity": 100.0,
+		"7|Default Opacity": 100.0,
+		"5|Nautilus Opacity": 100.0,
+		"6|Happy Ghast Opacity": 100.0,
+		"10|Look Offset": 20.0,
+		"3|Strider Opacity": 100.0
+	},
+	"tooltipscroll": {
+		"8|Keyboard Scrolling Speed": 5,
+		"0|Enable ScrollWheel": true,
+		"4|Use Left-Shift": true,
+		"7|Mouse Scrolling Speed": 10,
+		"5|Invert Horizontal Movement": false,
+		"10|Matrix Compatibility": false,
+		"1|Enable WASD": false,
+		"2|Start On Top": false,
+		"6|Invert Vertical Movement": false,
+		"3|Reset Position When Not Hovered": true,
+		"9|Scroll Smoothness": 0.25
+	},
+	"paginatedadvancements": {
+		"1|Show advancement ID in debug tooltip": true,
+		"9|Spacing between pinned tabs": 2,
+		"4|Fade the background slightly gray when hovering over an advancement": true,
+		"8|Spacing between horizontal tabs": 4,
+		"3|Max displayed advancement criterion entries": 2,
+		"6|List of pinned Tabs (root advancement identifier)": [],
+		"2|Show debug info on advancement hover": {
+			"class": "de.dafuqs.paginatedadvancements.config.PaginatedAdvancementsConfig$DebugInfoSetting",
+			"value": "DEBUG_TOOLTIPS_ENABLED"
+		},
+		"0|Enable pinning of advancement tabs": true,
+		"5|Save and restore the last selected tab": true,
+		"7|The identifier of the last selected tab": ""
+	},
+	"entityculling": {
+		"5|Force display culling": false,
+		"0|Render nametags through walls": true,
+		"2|Disable F3 debug info": false,
+		"3|Skip entity culling": false,
+		"6|Block entity frustum culling": true,
+		"7|Solid leaves": false,
+		"4|Skip block entity culling": false,
+		"1|Tick culling": true
+	},
+	"fastquit": {
+		"1|Show Toasts": false,
+		"4|Allow multiple running Worlds": {
+			"class": "me.contaria.fastquit.FastQuitConfig$ModCompat",
+			"value": "DISABLED"
+		},
+		"2|Show Saving Time": {
+			"class": "me.contaria.fastquit.FastQuitConfig$ShowSavingTime",
+			"value": "TRUE"
+		},
+		"0|Render \"Saving world\" Screen": false,
+		"3|Background Thread Priority": 2
+	},
+	"crosshairtweaks": {
+		"9|Remove Attack Indicator Blending Third Person": false,
+		"1|Disable Attack Indicator": false,
+		"7|Remove Attack Indicator Blending First Person": false,
+		"10|Crosshair Opacity First Person": 100.0,
+		"12|Crosshair Opacity Third Person": 100.0,
+		"13|Attack Indicator Opacity Third Person": 100.0,
+		"5|Add Attack Indicator to Debug Crosshair": false,
+		"4|Always Show in Spectator": false,
+		"3|Show in Third Person": false,
+		"2|Hide in Containers": true,
+		"8|Remove Crosshair Blending Third Person": false,
+		"6|Remove Crosshair Blending First Person": false,
+		"0|Disable Crosshair": false,
+		"11|Attack Indicator Opacity First Person": 100.0
+	},
+	"gammautils": {
+		"46|Gamma Compatibility Limiter": true,
+		"51|Color: Enabled": 43520,
+		"12|Averaging Light Level Range": 8,
+		"44|Minimum Night Vision Limit": 0,
+		"39|Enable Dimension Preference": false,
+		"10|Maximum Gamma Strength": 1000,
+		"11|Transition Speed": 200,
+		"6|Enable Smooth Transition": false,
+		"41|Nether Preference": 100,
+		"24|Color: < 0": 11141120,
+		"43|Enable Limiter": true,
+		"7|Transition Speed": 3000,
+		"19|Minimum Gamma Limit": -750,
+		"20|Maximum Gamma Limit": 1500,
+		"2|Update Toggle Value": false,
+		"29|Show Status Effect": false,
+		"52|Color: Disabled": 11141120,
+		"22|Color: 0 - 100": 43520,
+		"40|Overworld Preference": 100,
+		"4|Show Status Effect": false,
+		"5|Reset On Close": false,
+		"16|Nether Preference": 1500,
+		"31|Enable Smooth Transition": false,
+		"38|Sky Brightness Override": 0,
+		"37|Averaging Light Level Range": 8,
+		"9|Minimum Gamma Strength": 100,
+		"42|End Preference": 100,
+		"45|Maximum Night Vision Limit": 100,
+		"49|Color: > 100": 16755200,
+		"15|Overworld Preference": 1500,
+		"21|Show HUD Message": true,
+		"1|Toggled Gamma Percentage": 1500,
+		"8|Enable Dynamic Gamma": false,
+		"17|End Preference": 1500,
+		"34|Minimum Night Vision Strength": 0,
+		"35|Maximum Night Vision Strength": 100,
+		"14|Enable Dimension Preference": false,
+		"47|Show HUD Message": true,
+		"48|Color: 0 - 100": 43520,
+		"50|Color: < 0": 11141120,
+		"25|Toggled Night Vision Percentage": 100,
+		"23|Color: > 100": 16755200,
+		"33|Enable Dynamic Night Vision": false,
+		"3|Gamma Percentage Step": 10,
+		"32|Transition Speed": 200,
+		"13|Sky Brightness Override": 0,
+		"0|Default Gamma Percentage": 100,
+		"18|Enable Limiter": true,
+		"28|Brighten Fog Color": true,
+		"27|Night Vision Percentage Step": 2,
+		"53|Namespaced commands": false,
+		"30|Reset On Close": false,
+		"26|Update Toggle Value": false,
+		"36|Transition Speed": 15
+	},
+	"betterscreens": {
+		"0|Prevent Closing Screens": true,
+		"7|Player Inventory Label Color": {
+			"value": [
+				64, 
+				64, 
+				64, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"9|Remove Recipe Book Shift": false,
+		"3|Click Out of Containers": false,
+		"6|Container Label Color": {
+			"value": [
+				64, 
+				64, 
+				64, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"4|Container Background Opacity": 81.56863,
+		"5|Container Texture Opacity": 100.0,
+		"2|Cursor Reset Timer": 150,
+		"8|Container GUI Scale": -1,
+		"1|Don't Reset Cursor": false
+	},
+	"ukus-armor-hud": {
+		"16|Min Durability": "20",
+		"15|Icon Bob Intensity": "3",
+		"14|Show Warning": true,
+		"1|Anchor": 3,
+		"6|Offhand Slot": 1,
+		"2|Side": 0,
+		"13|Play Breaking Sound": true,
+		"17|Min Durability": 0.1,
+		"4|Orientation": 0,
+		"11|Reversed": false,
+		"12|Show Icons": true,
+		"9|Push Effect Icons": true,
+		"5|Show Widget": 2,
+		"3|Style": 0,
+		"10|Push Subtitles": true,
+		"18|X Offset": "0",
+		"0|Enabled": true,
+		"19|Y Offset": "0",
+		"7|Durability Display": 0,
+		"8|Push Bossbars": true
+	},
+	"sciophobia": {
+		"0|Hide Text Shadow": false,
+		"3|Full Text Shadow": false,
+		"2|Alternate Text Shadow": false,
+		"1|Force Text Shadow": false
+	},
+	"appleskin": {
+		"3|Show hunger restored from held food": true,
+		"0|Show food values in tooltip": true,
+		"7|Animate HUD icons to match Minecraft": true,
+		"5|Show exhaustion underlay": true,
+		"4|Show overlays for food in off-hand": true,
+		"8|Max alpha of flashing HUD icons": 0.65,
+		"2|Show saturation overlay": true,
+		"1|Always show food values in tooltip": true,
+		"6|Show estimated health overlay": true
+	},
+	"shaketweaks": {
+		"5|Disable Hand Damage Tilt": false,
+		"4|Disable Screen Damage Tilt": false,
+		"2|Disable Horizontal Bobbing": false,
+		"3|Disable Map Bobbing": true,
+		"1|Disable Hand Bobbing": false,
+		"6|Disable Hand View Sway": false,
+		"0|Disable Screen Bobbing": true
+	},
+	"waveycapes": {
+		"0|Cape Style": {
+			"class": "dev.tr7zw.waveycapes.versionless.CapeStyle",
+			"value": "SMOOTH"
+		},
+		"3|Gravity": 25,
+		"5|Compute Gravity Vector": false,
+		"2|Cape Movement": {
+			"class": "dev.tr7zw.waveycapes.versionless.CapeMovement",
+			"value": "BASIC_SIMULATION_3D"
+		},
+		"4|Height Multiplier": 6,
+		"1|Wind Mode": {
+			"class": "dev.tr7zw.waveycapes.versionless.WindMode",
+			"value": "NONE"
+		}
+	},
+	"cull-fewer-leaves": {
+		"1|Depth": 2,
+		"3|Fast Mangrove Roots Culling": false,
+		"2|Random Rejection": 0,
+		"0|Enabled": true
+	},
+	"cloth-config": {
+		"3|A color field": 65535,
+		"19|I only work when numbers are extreme!": true,
+		"10|I only appear when cool is toggled...": true,
+		"8|A cool toggle": false,
+		"2|A list of Strings": [
+			"abc", 
+			"xyz"
+		],
+		"5|An alpha color field": -1,
+		"1|A list of Longs": [
+			1, 
+			2, 
+			3
+		],
+		"4|An alpha color field": -16711681,
+		"15|Select a good or bad option": {
+			"class": "me.shedaniel.clothconfig2.ClothConfigDemo$1DependencyDemoEnum",
+			"value": "OKAY"
+		},
+		"7|Selection Random Int": 10,
+		"16|Select something big or small": 50,
+		"0|A list of Doubles": [
+			1.0, 
+			2.0, 
+			3.0
+		],
+		"14|Even lists!": [
+			1, 
+			2, 
+			3
+		],
+		"17|I only work when a good option is chosen...": true,
+		"9|I only work when cool is toggled...": true,
+		"13|Another example...": true,
+		"18|I need a good option AND a cool toggle!": true,
+		"11|I only work when cool matches both of these toggles ^^": true,
+		"6|Suggestion Random Int": 10,
+		"12|Example entry": true
+	},
+	"debugify": {
+		"16|MC-122477": true,
+		"11|MC-93384": true,
+		"69|MC-159283": true,
+		"72|MC-170462": true,
+		"75|MC-179072": true,
+		"71|MC-168573": true,
+		"49|MC-88371": true,
+		"97|MC-268617": true,
+		"52|MC-94054": true,
+		"53|MC-100991": true,
+		"62|MC-133218": true,
+		"79|MC-201374": true,
+		"31|MC-242809": true,
+		"63|MC-134110": true,
+		"4|MC-46766": true,
+		"7|MC-61489": false,
+		"0|MC-577": true,
+		"61|MC-132878": true,
+		"22|MC-176559": true,
+		"14|MC-116379": true,
+		"26|MC-210318": true,
+		"81|MC-206922": true,
+		"58|MC-123605": true,
+		"37|MC-280220": true,
+		"76|MC-183990": true,
+		"9|MC-80859": true,
+		"33|MC-259512": true,
+		"67|MC-155509": true,
+		"80|MC-202637": true,
+		"104|MC-8187": true,
+		"50|MC-89146": true,
+		"105|MC-136249": true,
+		"29|MC-217716": true,
+		"36|MC-268420": true,
+		"55|MC-121706": true,
+		"6|MC-59810": false,
+		"12|MC-105068": true,
+		"34|MC-263865": true,
+		"41|Enable In Multiplayer": false,
+		"10|MC-90683": true,
+		"59|MC-129909": true,
+		"2|MC-35361": true,
+		"83|MC-219981": true,
+		"86|MC-224729": true,
+		"60|MC-131562": true,
+		"23|MC-188359": true,
+		"70|MC-160095": true,
+		"8|MC-79545": true,
+		"30|MC-237493": true,
+		"94|MC-264285": true,
+		"56|MC-121903": true,
+		"27|MC-211561": true,
+		"47|MC-82263": true,
+		"101|MC-298066": true,
+		"5|MC-57057": true,
+		"39|MC-298558": true,
+		"3|MC-46737": true,
+		"15|MC-118740": true,
+		"24|MC-197260": true,
+		"45|MC-30391": true,
+		"46|MC-44654": true,
+		"64|MC-139041": true,
+		"17|MC-122627": true,
+		"35|MC-267376": true,
+		"38|MC-298225": true,
+		"18|MC-127970": true,
+		"98|MC-271899": true,
+		"84|MC-221257": true,
+		"77|MC-187100": true,
+		"13|MC-115092": true,
+		"99|MC-272431": true,
+		"103|Enable In Multiplayer": false,
+		"66|MC-153010": true,
+		"74|MC-177381": true,
+		"89|MC-227337": true,
+		"42|MC-159163": true,
+		"21|MC-165381": true,
+		"73|MC-176806": true,
+		"54|MC-119754": true,
+		"87|MC-226961": true,
+		"88|MC-227008": true,
+		"82|MC-215530": true,
+		"91|MC-232869": true,
+		"96|MC-267125": true,
+		"48|MC-84661": true,
+		"51|MC-93018": true,
+		"19|MC-143474": true,
+		"78|MC-200418": true,
+		"32|MC-251068": true,
+		"106|Default to Disabled": false,
+		"90|MC-231743": true,
+		"93|MC-263999": true,
+		"20|MC-165306": true,
+		"1|MC-4490": true,
+		"68|MC-158900": true,
+		"43|MC-231097": true,
+		"57|MC-123450": true,
+		"65|MC-147659": true,
+		"44|MC-7569": true,
+		"28|MC-215531": true,
+		"85|MC-223153": true,
+		"95|MC-264979": true,
+		"100|MC-297837": true,
+		"25|MC-206540": true,
+		"92|MC-245394": true
+	},
+	"smoothskies": {
+		"3|Remove Sky in the Void": false,
+		"2|Lower Sky Void Darkness": true,
+		"1|Fix Skybox Clipping": true,
+		"4|Clear Skies": false,
+		"0|Set Fog View Distance": 96
+	},
+	"confirmdisconnect": {
+		"4|Delay": 0.0,
+		"5|Confirm on Left": false,
+		"0|Enable Confirmation": false,
+		"1|Use Discrete Confirmation": false,
+		"2|Enable in Singleplayer": true,
+		"3|Enable in Multiplayer": true
+	},
+	"dynamic_fps": {
+		"37|Hostile Mobs": 100,
+		"19|Weather": 100,
+		"13|Battery Indicator Placement": {
+			"class": "dynamic_fps.impl.config.option.BatteryIndicatorPlacement",
+			"value": "TOP_LEFT"
+		},
+		"29|Invoke Garbage Collector": false,
+		"55|Players": 100,
+		"66|Master Volume": 100,
+		"41|Narrator/Voice": 100,
+		"67|Music": 100,
+		"11|Battery Indicator Condition": {
+			"class": "dynamic_fps.impl.config.option.BatteryIndicatorCondition",
+			"value": "CRITICAL"
+		},
+		"32|Master Volume": 100,
+		"58|UI": 100,
+		"78|Show Toasts": false,
+		"23|Players": 100,
+		"27|Graphics Options": {
+			"class": "dynamic_fps.impl.config.option.GraphicsState",
+			"value": "DEFAULT"
+		},
+		"2|Ignore Initial Click": {
+			"class": "dynamic_fps.impl.config.option.IgnoreInitialClick",
+			"value": "DISABLED"
+		},
+		"6|Downward Volume Transition Speed": 50,
+		"8|Enable On Battery State": false,
+		"3|Idle Timeout": 5,
+		"21|Hostile Mobs": 100,
+		"52|Blocks": 100,
+		"26|UI": 100,
+		"71|Hostile Mobs": 100,
+		"80|Download Natives": true,
+		"31|VSync": false,
+		"43|Graphics Options": {
+			"class": "dynamic_fps.impl.config.option.GraphicsState",
+			"value": "DEFAULT"
+		},
+		"61|Invoke Garbage Collector": true,
+		"70|Blocks": 100,
+		"64|Frame Rate Target": 10,
+		"5|Upward Volume Transition Speed": 60,
+		"42|UI": 100,
+		"74|Ambient/Environment": 100,
+		"33|Music": 100,
+		"17|Music": 100,
+		"62|Frame Rate Target": 68,
+		"65|VSync": false,
+		"36|Blocks": 100,
+		"79|Invoke Garbage Collector": false,
+		"56|Ambient/Environment": 100,
+		"35|Weather": 100,
+		"28|Show Toasts": true,
+		"73|Players": 100,
+		"18|Jukebox/Note Blocks": 100,
+		"34|Jukebox/Note Blocks": 100,
+		"39|Players": 100,
+		"44|Show Toasts": false,
+		"49|Music": 100,
+		"20|Blocks": 100,
+		"40|Ambient/Environment": 100,
+		"48|Master Volume": 100,
+		"53|Hostile Mobs": 100,
+		"63|VSync": true,
+		"7|Battery Tracking": false,
+		"30|Frame Rate Target": 10,
+		"75|Narrator/Voice": 100,
+		"60|Show Toasts": false,
+		"22|Friendly Mobs": 100,
+		"24|Ambient/Environment": 100,
+		"57|Narrator/Voice": 100,
+		"72|Friendly Mobs": 100,
+		"4|Idle Condition": {
+			"class": "dynamic_fps.impl.config.option.IdleCondition",
+			"value": "VANILLA"
+		},
+		"81|Use Mock Battery Data": false,
+		"14|Frame Rate Target": 40,
+		"45|Invoke Garbage Collector": false,
+		"38|Friendly Mobs": 100,
+		"54|Friendly Mobs": 100,
+		"77|Graphics Options": {
+			"class": "dynamic_fps.impl.config.option.GraphicsState",
+			"value": "DEFAULT"
+		},
+		"47|VSync": false,
+		"1|Uncap Menu FPS": false,
+		"69|Weather": 100,
+		"9|Battery Notifications": true,
+		"51|Weather": 100,
+		"59|Graphics Options": {
+			"class": "dynamic_fps.impl.config.option.GraphicsState",
+			"value": "DEFAULT"
+		},
+		"76|UI": 100,
+		"10|Critical Charge Threshold": 10,
+		"50|Jukebox/Note Blocks": 100,
+		"25|Narrator/Voice": 100,
+		"68|Jukebox/Note Blocks": 100,
+		"46|Frame Rate Target": 0,
+		"15|VSync": false,
+		"0|Enabled": true,
+		"16|Master Volume": 100,
+		"12|Show with debug overlay (F3)": false
+	},
+	"skinlayers3d": {
+		"2|3D Left Sleeve": true,
+		"6|Level Of Detail Distance": 14,
+		"8|Head Voxel Size": 1.18,
+		"7|Voxel Size": 1.15,
+		"3|3D Right Sleeve": true,
+		"4|3D Left Pants": true,
+		"5|3D Right Pants": true,
+		"9|Torso Voxel Width": 1.05,
+		"0|3D Hat": true,
+		"1|3D Jacket": true
+	},
+	"rendertweaks": {
+		"0|Disable": false,
+		"21|Speed": 0.25,
+		"20|Alpha": 102.0,
+		"28|Speed": 0.25,
+		"32|Saturation": 1.0,
+		"6|Speed": 0.25,
+		"24|Enable Chroma": false,
+		"15|Disable": false,
+		"22|Disable": false,
+		"8|Line Width Multiplier": 1.0,
+		"27|Alpha": 102.0,
+		"19|Brightness": 1.0,
+		"2|Enable Chroma": false,
+		"34|Alpha": 102.0,
+		"16|Solid Color": {
+			"value": [
+				32, 
+				160, 
+				255, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"7|Disable": false,
+		"26|Brightness": 1.0,
+		"3|Saturation": 1.0,
+		"1|Solid Color": {
+			"value": [
+				115, 
+				115, 
+				128, 
+				77
+			],
+			"class": "java.awt.Color"
+		},
+		"35|Speed": 0.25,
+		"4|Brightness": 1.0,
+		"18|Saturation": 1.0,
+		"12|Brightness": 1.0,
+		"23|Solid Color": {
+			"value": [
+				255, 
+				48, 
+				48, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"29|Disable": false,
+		"14|Speed": 0.25,
+		"25|Saturation": 1.0,
+		"31|Enable Chroma": false,
+		"13|Alpha": 102.0,
+		"9|Solid Color": {
+			"value": [
+				0, 
+				0, 
+				0, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"17|Enable Chroma": false,
+		"33|Brightness": 1.0,
+		"30|Solid Color": {
+			"value": [
+				64, 
+				255, 
+				128, 
+				255
+			],
+			"class": "java.awt.Color"
+		},
+		"11|Saturation": 1.0,
+		"10|Enable Chroma": false,
+		"5|Alpha": 102.0
+	},
+	"simplenickhider": {
+		"2|Server Nickname": "",
+		"0|Enable": false,
+		"3|Hide Skin": false,
+		"1|Replacement": ""
+	},
+	"wwaypoints": {
+		"0|Zoom With FOV": false,
+		"27|Toggle Sneak Indicator": {
+			"class": "com.wwaypoints.client.ModConfig$ToggleSneakIndicatorMode",
+			"value": "OFF"
+		},
+		"38|Cycle Options": [
+			-1, 
+			0
+		],
+		"22|Sign GUI popup": true,
+		"17|Enable Hoplite features": true,
+		"14|Outline opacity": -1,
+		"25|Better Sneak Interactions": true,
+		"13|Block through walls": false,
+		"5|UI Scale": 1,
+		"11|Always Center X": true,
+		"10|Fade Range (Blocks)": [
+			2.0, 
+			1.0
+		],
+		"8|Default Label Preset": "38ff60d1-6b71-4c1c-b116-d95918ba4c22",
+		"4|Sort order": {
+			"class": "com.wwaypoints.client.ModConfig$WaypointMenuSortOrder",
+			"value": "PROXIMITY"
+		},
+		"12|Center When Done": true,
+		"23|Show hidden potion effects (HUD)": true,
+		"6|Menu background darkness": 50,
+		"3|Use Block Model": true,
+		"20|Auto pick waypoint": true,
+		"7|Animations": {
+			"class": "com.wwaypoints.client.ModConfig$UiAnimationMode",
+			"value": "ALL"
+		},
+		"9|Label height": 2.5,
+		"26|Sneak Keybind Overrides": false,
+		"1|Death waypoints": false,
+		"15|Fill opacity": -1,
+		"18|Auto supply drop waypoints": true,
+		"24|Stay Sneaked in Containers": true
+	},
+	"zoomify": {
+		"9|Scroll Zoom Smoothness": 70,
+		"20|Zoom Amount": 4,
+		"18|Cinematic Camera": 0,
+		"1|Zoom In Time": 1.0,
+		"16|Relative Sensitivity": 100,
+		"23|Hide HUD On Zoom": true,
+		"2|Zoom Out Time": 0.5,
+		"5|Affect Hand FOV": true,
+		"4|Zoom Out Transition": {
+			"class": "dev.isxander.zoomify.utils.TransitionType",
+			"value": "EASE_OUT_EXP"
+		},
+		"21|Zoom In Time": 10.0,
+		"13|Sound Behavior": {
+			"class": "dev.isxander.zoomify.config.SoundBehaviour",
+			"value": "WITH_OVERLAY"
+		},
+		"12|Overlay Visibility": {
+			"class": "dev.isxander.zoomify.config.OverlayVisibility",
+			"value": "HOLDING"
+		},
+		"17|Relative View Bobbing": true,
+		"11|Zoom Behavior": {
+			"class": "dev.isxander.zoomify.config.SpyglassBehaviour",
+			"value": "COMBINE"
+		},
+		"0|Initial Zoom": 4,
+		"6|Enable Scroll Zoom": true,
+		"7|Scroll Step Count": 10,
+		"14|Zoom Key Behavior": {
+			"class": "dev.isxander.zoomify.config.ZoomKeyBehaviour",
+			"value": "HOLD"
+		},
+		"3|Zoom In Transition": {
+			"class": "dev.isxander.zoomify.utils.TransitionType",
+			"value": "EASE_OUT_EXP"
+		},
+		"22|Zoom Out Time": 1.0,
+		"10|Remember Zoom Steps": false,
+		"8|Zoom Per Step": 150,
+		"15|Keybind Scrolling": false
+	},
+	"cubes-without-borders": {
+		"1|Fullscreen Type": "minecraft:default",
+		"0|Pause On Lost Focus": true,
+		"2|Borderless Fullscreen Type": "windows:windowed"
+	},
+	"scrolltweaks": {
+		"0|Disable Scrolling": false,
+		"2|Prevent Overflow Scrolling": false,
+		"1|Reverse Scroll Direction": false
+	},
+	"simpleblockoverlay": {
+		"2|Line Width": 2.5,
+		"3|Color": {
+			"value": [
+				0, 
+				0, 
+				0, 
+				102
+			],
+			"class": "java.awt.Color"
+		},
+		"22|Hide Barrier Blocks": false,
+		"4|Enable Chroma": false,
+		"6|Brightness": 1.0,
+		"23|Hide Tall and Short Grass": false,
+		"10|Color": {
+			"value": [
+				0, 
+				0, 
+				0, 
+				102
+			],
+			"class": "java.awt.Color"
+		},
+		"12|Saturation": 1.0,
+		"1|Use Custom Renderer": true,
+		"15|Speed": 0.25,
+		"16|Disable Mod": false,
+		"7|Alpha": 102.0,
+		"17|Disable Depth": false,
+		"11|Enable Chroma": false,
+		"19|Render in Adventure": false,
+		"9|Disable Faces": true,
+		"8|Speed": 0.25,
+		"14|Alpha": 102.0,
+		"20|Render in Spectator": false,
+		"13|Brightness": 1.0,
+		"18|Always Render": false,
+		"5|Saturation": 1.0,
+		"0|Disable Outline": false,
+		"21|Render in Hidden HUD": false
+	},
+	"droppeditemtweaks": {
+		"0|Static Dropped Items": false,
+		"1|Dropped Stack Item Count": 0,
+		"2|Item Scale": 1.0,
+		"3|Custom Item Scale": 0.0
+	}
+}

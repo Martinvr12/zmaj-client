@@ -1,0 +1,18 @@
+{
+	"backwardKeybind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen",
+		"keyCodes": [
+			"key.keyboard.left.bracket"
+		]
+	},
+	"forwardKeyBind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen",
+		"keyCodes": [
+			"key.keyboard.right.bracket"
+		]
+	},
+	"isEnabled": false,
+	"isIrlTime": false,
+	"irlLunarPhases": false,
+	"time": 12.0
+}

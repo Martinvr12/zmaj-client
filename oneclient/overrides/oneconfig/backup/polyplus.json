@@ -1,0 +1,37 @@
+{
+	"emoteWheelKeybind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"jvmAdviceShownAt": 0,
+	"showPolyPlusIndicator": true,
+	"onboardingFeaturesApplied": false,
+	"adaptiveBlurApplied": false,
+	"ramAdviceNotifications": true,
+	"modOrderSeed": "",
+	"autoRefreshSession": true,
+	"defaultSettingsApplied": false,
+	"showChatEmoji": true,
+	"apiUrl": {
+		"class": "org.polyfrost.polyplus.BackendUrl",
+		"value": "PRODUCTION"
+	},
+	"onboardingLightTheme": false,
+	"onboardingGuiScale": 0,
+	"acceptedLegalTerms": true,
+	"onboardingPolyBlurApplied": false,
+	"onboardingUiStyle": 0,
+	"onboardingMotionBlurMode": -1,
+	"socialsMenuKeybind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind",
+		"keyCodes": [
+			"key.keyboard.p"
+		],
+		"mods": 1
+	},
+	"onboardingToggleSprint": true,
+	"appliedDefaults": "",
+	"onboardingCompleted": false,
+	"onboardingSprintApplied": false,
+	"onboardingMotionBlur": 3,
+	"replacePauseLanButton": true
+}

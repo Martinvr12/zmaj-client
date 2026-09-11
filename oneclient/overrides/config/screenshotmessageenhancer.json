@@ -1,0 +1,11 @@
+{
+	"debugModeEnabled": false,
+	"showName": false,
+	"showUploadButton": true,
+	"showCopyButton": true,
+	"autoCopyScreenshot": false,
+	"showDeleteButton": true,
+	"showOpenButton": true,
+	"showOpenFolderButton": true,
+	"compressScreenshots": true
+}

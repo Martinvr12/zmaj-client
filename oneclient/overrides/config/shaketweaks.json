@@ -1,0 +1,9 @@
+{
+	"disableScreenBobbing": true,
+	"disableHandBobbing": false,
+	"disableHorizontalBobbing": false,
+	"disableMapBobbing": true,
+	"disableHandDamage": false,
+	"disableScreenDamage": false,
+	"disableHandViewSway": false
+}

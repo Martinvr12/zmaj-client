@@ -1,0 +1,36 @@
+{
+	"overrideTextColor": false,
+	"backgroundColor": {
+		"value": [
+			0, 
+			0, 
+			0, 
+			63
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"isHidePlayerNametagsInHiddenHud": true,
+	"isShowOwnNametag": true,
+	"isHideArmorStandNametagsInHiddenHud": true,
+	"scale": 1.0,
+	"textType": 0,
+	"isShowInInventory": false,
+	"isHideEntityNametagsInHiddenHud": true,
+	"heightOffset": 0.0,
+	"textColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"cornerRadius": 3.0,
+	"paddingX": 0.0,
+	"background": true,
+	"isEnabled": true,
+	"isRemoveNametags": false,
+	"rounded": false,
+	"paddingY": 0.0
+}

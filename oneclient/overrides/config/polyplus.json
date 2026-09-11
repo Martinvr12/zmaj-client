@@ -1,0 +1,37 @@
+{
+	"emoteWheelKeybind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"jvmAdviceShownAt": 0,
+	"showPolyPlusIndicator": true,
+	"onboardingFeaturesApplied": true,
+	"adaptiveBlurApplied": true,
+	"ramAdviceNotifications": true,
+	"modOrderSeed": "-1676774253",
+	"autoRefreshSession": true,
+	"defaultSettingsApplied": false,
+	"showChatEmoji": true,
+	"apiUrl": {
+		"class": "org.polyfrost.polyplus.BackendUrl",
+		"value": "PRODUCTION"
+	},
+	"onboardingLightTheme": false,
+	"onboardingGuiScale": 0,
+	"acceptedLegalTerms": true,
+	"onboardingPolyBlurApplied": true,
+	"onboardingUiStyle": 0,
+	"onboardingMotionBlurMode": 0,
+	"socialsMenuKeybind": {
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind",
+		"keyCodes": [
+			"key.keyboard.p"
+		],
+		"mods": 1
+	},
+	"onboardingToggleSprint": true,
+	"appliedDefaults": "animatium-onboarding,vanilla-options,unbind:iris,unbind:zoomify.key.zoom.secondary,unbind:key.optigui.inspect,unbind:key.blackbarconcealer.toggle,unbind:Open Mod Configuration,unbind:Reload Mod,better-screens,confirm-disconnect,animatium-config-2,animatium-item-fixups,modmenu-mod-count,animatium-packs",
+	"onboardingCompleted": true,
+	"onboardingSprintApplied": true,
+	"onboardingMotionBlur": 3,
+	"replacePauseLanButton": true
+}

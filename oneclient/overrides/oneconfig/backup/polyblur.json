@@ -1,0 +1,11 @@
+{
+	"strength": 3.0,
+	"handBlurStrength": 5.0,
+	"motionBlurSamples": 16.0,
+	"blurHand": true,
+	"isEnabled": true,
+	"velocityBuffer": true,
+	"blurType": 2,
+	"phosphorMode": 1,
+	"translationParallax": true
+}

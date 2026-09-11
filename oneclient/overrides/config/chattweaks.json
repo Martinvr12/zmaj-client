@@ -1,0 +1,55 @@
+{
+	"timestampsStyle": 0,
+	"compactChatColor": {
+		"value": [
+			170, 
+			170, 
+			170, 
+			255
+		],
+		"class": "java.awt.Color"
+	},
+	"compactChat": true,
+	"dontCompactScreenshots": true,
+	"timestamps": false,
+	"timestampsBrackets": 0,
+	"shiftChat": false,
+	"vanilla_save_chat_drafts": false,
+	"bypassCommandLimit": true,
+	"vanilla_chat_delay": 0.0,
+	"compactChatTime": 60,
+	"safeChatClicksHistory": false,
+	"increaseChatHistoryLimit": 1000,
+	"imagePreview": true,
+	"dontClearChatHistory": true,
+	"removeBlankMessages": false,
+	"timestampsRightBracket": "]",
+	"vanilla_hide_matched_names": true,
+	"timestampsFormat": 0,
+	"secondsOnTimestamps": false,
+	"vanilla_auto_suggestions": true,
+	"onlyNewTimestamps": false,
+	"saveChatHistory": true,
+	"sessionMarkers": true,
+	"imagePreviewWidth": 25.0,
+	"vanilla_chat_visibility": 0,
+	"fuzzyAutocomplete": false,
+	"vanilla_chat_colors": true,
+	"vanilla_chat_links": true,
+	"timestampsColor": {
+		"value": [
+			170, 
+			170, 
+			170, 
+			255
+		],
+		"class": "java.awt.Color"
+	},
+	"safeChatClicks": false,
+	"vanilla_only_show_secure_chat": false,
+	"saveChatHistoryInterval": 30,
+	"timestampsLeftBracket": "[",
+	"vanilla_chat_links_prompt": true,
+	"consecutiveCompactChat": false,
+	"compactChatFormat": 0
+}

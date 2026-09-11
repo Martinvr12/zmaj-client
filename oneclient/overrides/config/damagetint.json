@@ -1,0 +1,73 @@
+{
+	"DamageTypeColors": {
+		"magic": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"warning": "",
+		"explosion": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"melee": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"crit": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"mace": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"ranged": {
+			"value": [
+				255, 
+				0, 
+				0, 
+				77
+			],
+			"class": "org.polyfrost.compose.render.PolyColor"
+		},
+		"enabled": false
+	},
+	"fade": false,
+	"fadeDeath": false,
+	"colorV2": {
+		"value": [
+			255, 
+			0, 
+			0, 
+			77
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"enabled": true,
+	"fadeDuration": 10.0
+}

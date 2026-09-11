@@ -1,0 +1,49 @@
+{
+	"blackbarSlotNumbers": false,
+	"customHandFOV": false,
+	"blackbarItemColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"lastServerIP": "",
+	"snowColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"lineColor": {
+		"value": [
+			255, 
+			255, 
+			255, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"blackbar": false,
+	"connectSnow": false,
+	"addSnow": false,
+	"serverPreview": false,
+	"lineWidth": 1.0,
+	"blackbarColor": {
+		"value": [
+			0, 
+			0, 
+			0, 
+			85
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"lastServerJoined": false,
+	"handFOV": 125,
+	"particles": 100
+}

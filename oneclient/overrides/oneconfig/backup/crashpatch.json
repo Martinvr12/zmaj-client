@@ -1,0 +1,12 @@
+{
+	"initCrashPatch": true,
+	"ignored": false,
+	"leaveLimit": 3,
+	"crashLimit": 5,
+	"inGameCrashPatch": true,
+	"disconnectCrashPatch": true,
+	"crashLogUploadMethod": {
+		"class": "org.polyfrost.crashpatch.client.CrashPatchConfig$UploadMethod",
+		"value": "HASTEBIN"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"lexicalModBoost": 1.0,
+	"lexicalPrefixExpansions": 64,
+	"lexicalFuzzyPrefixLength": 0,
+	"maxKnnWeightWords": 6,
+	"lexicalScoreFloor": 0.4,
+	"lexicalMinFuzzyLength": 4,
+	"enabled": true,
+	"maxKnnResults": 100,
+	"lexicalTitleStartBoost": 8.0,
+	"maxResults": 20,
+	"maxKnnWeight": 2.0,
+	"lexicalTagBoost": 1.0,
+	"minKnnScore": 0.8,
+	"overwriteDefault": false,
+	"minKnnWeight": 0.25,
+	"lexicalPhraseSlop": 2,
+	"resultScoreFloor": 0.4,
+	"staleEntries": {
+		"launchesLeft": [],
+		"ids": [],
+		"class": "org.polyfrost.smartsearch.config.StaleEntries"
+	},
+	"lexicalPhraseBoost": 3.0,
+	"knnWeightScalingStartWords": 2,
+	"lexicalContextBoost": 0.7,
+	"lexicalExactBoost": 0.5,
+	"lexicalFieldTieBreak": 0.0,
+	"lexicalTitleBoost": 2.0,
+	"enableSemantic": true,
+	"maxLexicalResults": 100
+}

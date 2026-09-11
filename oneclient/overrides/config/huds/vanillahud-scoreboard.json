@@ -1,0 +1,110 @@
+{
+	"showInScreens": true,
+	"showShadow": false,
+	"layoutRefH": 248.0,
+	"bgChroma": false,
+	"customScale": 1.0,
+	"relativeY": 0.0,
+	"shadowChroma": false,
+	"relativeX": -109.0,
+	"section": {
+		"class": "org.polyfrost.oneconfig.api.hud.v1.Section",
+		"value": "CenterRight"
+	},
+	"anchorOffsetY": 0.0,
+	"anchorOffsetX": 0.0,
+	"hideRepeatingScores": true,
+	"showBackground": true,
+	"showKey": -1,
+	"locked": true,
+	"shadowColor": 1073741824,
+	"anchorTargetId": "",
+	"textAlign": 1,
+	"textType": 0,
+	"staticWidth": false,
+	"textColor": -1,
+	"bgChromaSpeed": 1.0,
+	"layoutRefW": 480.0,
+	"textUnderline": false,
+	"scoreboardTitle": true,
+	"padBottom": 0.0,
+	"alignment": {
+		"class": "org.polyfrost.compose.layout.PolyAlign",
+		"value": "Center"
+	},
+	"toggleKey": -1,
+	"shadowOffsetX": 2.0,
+	"staticW": 200.0,
+	"shadowOffsetY": 2.0,
+	"scoreboardPoints": 1,
+	"hidden": false,
+	"anchorPoint": {
+		"class": "org.polyfrost.oneconfig.api.hud.v1.HudAnchor",
+		"value": "TopLeft"
+	},
+	"selfAnchorPoint": {
+		"class": "org.polyfrost.oneconfig.api.hud.v1.HudAnchor",
+		"value": "Auto"
+	},
+	"showInChat": true,
+	"caseType": 0,
+	"backgroundImagePath": "",
+	"posSchema": 1,
+	"padRight": 0.0,
+	"titleColor": {
+		"value": [
+			0, 
+			0, 
+			0, 
+			102
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"bgColor": -2147483648,
+	"textWeight": {
+		"class": "org.polyfrost.oneconfig.api.hud.v1.Weight",
+		"value": "Regular"
+	},
+	"scorePointsColor": {
+		"value": [
+			255, 
+			85, 
+			85, 
+			255
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"padLeft": 0.0,
+	"backgroundColor": {
+		"value": [
+			0, 
+			0, 
+			0, 
+			76
+		],
+		"class": "org.polyfrost.compose.render.PolyColor"
+	},
+	"padTop": 0.0,
+	"showInF3": true,
+	"showInTab": true,
+	"textChroma": false,
+	"textScale": 1.0,
+	"useGuiScale": true,
+	"shadowChromaSpeed": 1.0,
+	"growthAnchor": {
+		"class": "org.polyfrost.oneconfig.api.hud.v1.HudAnchor",
+		"value": "Auto"
+	},
+	"staticH": 48.0,
+	"textChromaSpeed": 1.0,
+	"textItalic": false,
+	"keepBackgroundColor": false,
+	"textBold": false,
+	"persistentTitle": false,
+	"hudClass": "org.polyfrost.vanillahud.hud.ScoreboardHud",
+	"font": {
+		"class": "org.polyfrost.oneconfig.api.hud.v1.Font",
+		"value": "Minecraft"
+	},
+	"bgRadius": 4.0
+}
