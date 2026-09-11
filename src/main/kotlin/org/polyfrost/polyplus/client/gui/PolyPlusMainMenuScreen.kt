@@ -714,14 +714,42 @@ private const val BASE_HEIGHT = 720f
 
 @Composable
 private fun CenterColumn(modifier: Modifier, actions: MenuActions, assetsReady: Boolean) {
-    Column(modifier = modifier.width(440.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-        Spacer(Modifier.height(112.dp))
+    Column(
+        modifier = modifier.width(440.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Spacer(Modifier.height(70.dp))
+
+        MainLogo(assetsReady)
+
+        Spacer(Modifier.height(24.dp))
+
         Box(contentAlignment = Alignment.Center) {
-            MenuText("ZMAJ CLIENT", fontSize = 42.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.5.sp, color = Color(0x33000000), fontFamily = if (assetsReady) Outfit else FontFamily.Default, modifier = Modifier.offset(y = 3.dp))
-            MenuText("ZMAJ CLIENT", fontSize = 42.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.5.sp, color = Color.White, fontFamily = if (assetsReady) Outfit else FontFamily.Default)
+            MenuText(
+                "ZMAJ CLIENT",
+                fontSize = 42.sp,
+                fontWeight = FontWeight.Bold,
+                letterSpacing = 2.5.sp,
+                color = Color(0x33000000),
+                fontFamily = if (assetsReady) Outfit else FontFamily.Default,
+                modifier = Modifier.offset(y = 3.dp)
+            )
+            MenuText(
+                "ZMAJ CLIENT",
+                fontSize = 42.sp,
+                fontWeight = FontWeight.Bold,
+                letterSpacing = 2.5.sp,
+                color = Color.White,
+                fontFamily = if (assetsReady) Outfit else FontFamily.Default
+            )
         }
-        Spacer(Modifier.height(48.dp))
-        Column(modifier = Modifier.fillMaxWidth(), verticalArrangement = Arrangement.spacedBy(14.dp)) {
+
+        Spacer(Modifier.height(36.dp))
+
+        Column(
+            modifier = Modifier.fillMaxWidth(),
+            verticalArrangement = Arrangement.spacedBy(14.dp)
+        ) {
             PillButton("Singleplayer", ASSETS + "user-01.svg", Modifier.fillMaxWidth(), assetsReady, actions.singleplayer)
             PillButton("Multiplayer", ASSETS + "users-01.svg", Modifier.fillMaxWidth(), assetsReady, actions.multiplayer)
             actions.realms?.let { realms ->
@@ -1082,7 +1110,7 @@ private fun Footer(modifier: Modifier, guiScale: Float, assetsReady: Boolean) {
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(8.dp),
         ) {
-            MenuIcon(ASSETS + "footer-logo.svg", Color.White, Modifier.size(25.dp), assetsReady)
+            MenuIcon(ASSETS + "zmaj-logo.png", Color.White, Modifier.size(25.dp), assetsReady)
             FooterBrandText(platformLabel(), assetsReady)
         }
         MenuText(
@@ -1106,7 +1134,7 @@ private fun FooterBrandText(platform: String, assetsReady: Boolean) {
     BasicText(
         text = buildAnnotatedString {
             withStyle(SpanStyle(color = primary, fontWeight = FontWeight.Bold, fontFamily = if (assetsReady) Outfit else FontFamily.Default)) {
-                append("ONECLIENT")
+                append("ZMAJ CLIENT")
             }
             withStyle(SpanStyle(color = secondary, fontFamily = bodyFont)) {
                 append("   ")
